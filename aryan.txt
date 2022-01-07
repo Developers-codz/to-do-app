@@ -1,1 +1,6 @@
-my contribution
+--LINUX COMMANDS--
+5. ls (list directories and files)
+4. cd (change directory)
+3. pwd (shows present working directory)
+2. touch (to make a file)
+1. mkdir hello{1..100000}
